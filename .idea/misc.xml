@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/wikimeia-producer/pom.xml" />
         <option value="$PROJECT_DIR$/wikimedia-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/wikimedia-consumer/pom.xml" />
       </list>
     </option>
   </component>
